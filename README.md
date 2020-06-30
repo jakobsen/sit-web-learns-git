@@ -1,4 +1,4 @@
 # Hei SIT Web!
 
 Prøv å redigere denne filen, og dytt den til GitHub!
-Det blir lettere etterhvert.
+Det blir lettere etterhvert. Men det er litt vrient.
